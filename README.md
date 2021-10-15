@@ -9,5 +9,5 @@ An example of an integration into a Limesurvey can be found here: http://survey2
 An html version can be found here: https://rawcdn.githack.com/PernelleL/2DAFS/92e774785aafd8b957317e99fb8aeb6289c054ef/p5_2021.html
 
 
-Citation: Lorette, P. (submitted). Investigating emotion perception via the Two-Dimensional Affect and Feeling Space (2DAFS): an example of a cross-cultural study among Chinese and non-Chinese participants._ Frontiers in Psychology._
+Citation: Lorette, P. (2021). Investigating emotion perception via the Two-Dimensional Affect and Feeling Space (2DAFS): an example of a cross-cultural study among Chinese and non-Chinese participants. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.662610
 
