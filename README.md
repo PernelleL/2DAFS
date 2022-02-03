@@ -4,7 +4,7 @@ You are welcome to use this instrument for research purposes (see https://github
 
 The software implementing this interactive response format has been developed by Samuel Lorette with p5.js, a JavaScript library which is based on the principles of the programming language Processing. It can be integrated in online surveys. Three versions are available: in English, in Simplified Chinese, and in Traditional Chinese. 
 
-An example of an integration into a Limesurvey can be found here: http://survey2.sl-services.be/index.php/521811?lang=en 
+An example of an integration into a Limesurvey can be found here: http://survey2.sl-services.be/index.php/521811?lang=en (The question group used in this example can be found as a .lsg file in this github repository and can be directly imported in a LimeSurvey questionnaire.)
 
 An html version can be found here: https://rawcdn.githack.com/PernelleL/2DAFS/92e774785aafd8b957317e99fb8aeb6289c054ef/p5_2021.html
 
